@@ -1,6 +1,5 @@
-Look ma, I made a CPU! Here's what I did:
+I made a CPU! 
 
--
 A CPU architecture supporting all RISC-V instructions at a low level of assembly language designed with logism. The CPU includes features such as branching, jumping, ALU operations, and is designed with multiple pipeline stages for enhanced performance.
 
 Features
